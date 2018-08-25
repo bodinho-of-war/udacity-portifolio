@@ -1,0 +1,17 @@
+@media screen and (min-width: 0) and (max-width: 400px;){
+  .yes{
+    background-color: red;
+  }
+}
+
+@media screen and (min-width: 401) and (max-width: 599px;){
+  .yes{
+    background-color: green;
+  }
+}
+
+@media screen and (min-width: 600){
+  .yes{
+    background-color: blue;
+  }
+}
